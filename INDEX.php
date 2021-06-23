@@ -174,7 +174,11 @@ foreach ($data_det[0] as $a) {
 
             <p class="highcharts-description">
             <h3> Pie chart Drilldown ketika diclick dua kali</h3>
-            </p>
+            </p><div class="row">
+            <div class="col-12">
+        <div class="card-box" style="height: 500px;">
+          <iframe name="mondrian" src="http://localhost:8080/mondrian/index.html" style="height:100%; width:100%; border:none; align-content:center"> </iframe>
+        </div>
         </center>
     </figure>
 
